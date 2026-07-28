@@ -49,7 +49,7 @@ We would love to hear your thoughts, bug reports, and feature ideas!
 
 * **Issues:** Report bugs and share ideas via [GitHub Issues](../../issues).
 * **Email:** Say hello or ask questions at [hello@intessika.com](mailto:hello@intessika.com).
-* **Discord:** Coming soon!
+* **Discord:** [https://discord.gg/XY8zQy2Rar](https://discord.gg/XY8zQy2Rar)
 
 ---
 
