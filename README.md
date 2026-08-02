@@ -1,9 +1,42 @@
 # Intessika
 
 > **Blazing-fast local-first context manager** — capture, keep, create, annotate, and more in private. Your data stays on your device. Always.
-
 ---
 
+<p align="center">
+  <img src="assets/screenshots/pic1_tree_and_styles.png" width="650" alt="Intessika Main Tree"><br>
+  <em>Main Tree view with custom styles</em>
+</p>
+<details>
+  <summary>📸 Click to view screenshots</summary>
+  <p align="center">
+    <figure>
+      <img src="assets/screenshots/pic2_tree_note_info.png" width="500" alt="Note and Info">
+      <figcaption><i>Macro-tree colormapping and contextual note properties</i></figcaption>
+    </figure>
+    <br>
+    <figure>
+      <img src="assets/screenshots/pic3_note_context_links.png" width="500" alt="Context and links">
+      <figcaption><i>Document workspace with links to internal documents</i></figcaption>
+    </figure>  
+    <br>
+    <figure>
+      <img src="assets/screenshots/pic3_quick_full_search.png" width="500" alt="Advanced Search">
+      <figcaption><i>Blazing-fast quick search and advanced filtering</i></figcaption>
+    </figure>  
+    <br>
+    <figure>
+      <img src="assets/screenshots/pic5_annotations.png" width="500" alt="Annotations">
+      <figcaption><i>Non-destructive annotations overlay for external files</i></figcaption>
+    </figure>  
+    <br>
+    <figure>
+      <img src="assets/screenshots/pic6_tags_badges_focus.png" width="500" alt="Part of document information">
+      <figcaption><i>Visual saliency anchors: tags, badges, and usage signals</i></figcaption>
+    </figure>  
+
+  </p>
+</details>
 ## 💻 Supported Platforms
 
 Intessika will be available for desktop computers running:
